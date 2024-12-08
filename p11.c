@@ -18,7 +18,6 @@ int main()
     }
     else{
         printf("the entered number is not divisible by both 5 and 10\n");
-        printf("hi");
     }
     return 0;
 }
