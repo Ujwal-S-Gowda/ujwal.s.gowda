@@ -11,6 +11,7 @@ int reverseNumber(int num)
         num/=10;                     
     }
     return reversed;
+    
 }
 int main()
 {
