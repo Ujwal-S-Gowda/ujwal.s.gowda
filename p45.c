@@ -1,3 +1,5 @@
+//String Comparison Using strcmp Function
+
 #include <stdio.h>
 #include <string.h>
 

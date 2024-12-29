@@ -1,3 +1,5 @@
+//to implement Bubble sort technique(ascending order)
+
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n) {
