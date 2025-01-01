@@ -7,7 +7,8 @@ int main()
     int num=0;
     printf("enter a number\n");
     scanf("%d",&num);
-    if(num<0){
+    if(num<0)
+    {
         printf("the given number is not a square root (negative numbers cannot be square root)\n");
     }
     else
