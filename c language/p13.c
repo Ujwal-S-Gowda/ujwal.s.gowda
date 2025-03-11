@@ -1,9 +1,10 @@
-// to display a pattern like a right angle triangle using numbers
-// the pattern:
-// 1
-// 2 3
-// 4 5 6
-// 7 8 9 10
+/* to display a pattern like a right angle triangle using numbers
+   the pattern:
+   1
+   2 3
+   4 5 6
+   7 8 9 10
+*/
 
 #include<stdio.h>
 int main()

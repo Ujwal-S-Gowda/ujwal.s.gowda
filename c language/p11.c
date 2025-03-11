@@ -1,9 +1,10 @@
-// to display a pattern like a right angle triangle using an asterisk
-// the pattern:
-// *
-// **
-// ***
-// ****
+/* to display a pattern like a right angle triangle using an asterisk
+   the pattern:
+   *
+   **
+   ***
+   ****
+*/
 
 #include<stdio.h>
 int main()
