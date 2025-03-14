@@ -27,7 +27,6 @@ int main()
         if (marks1 < 33) printf("Mathematics ");
         if (marks2 < 33) printf("Physics ");
         if (marks3 < 33) printf("Chemistry ");
-        
         printf("\nYour total marks is %d\n", marks1 + marks2 + marks3);
     }
 
